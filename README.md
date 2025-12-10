@@ -18,10 +18,7 @@ Install my vite project with npm
   npm install
   npm run dev
 ```
-    
-## Screenshots
-
-![App Screenshot](https://drive.google.com/file/d/1wVL0Rdqhwcdc_xv4Xl3xcPhxKx_Fvdyn/view?usp=sharing)
+  
 
 
 https://drive.google.com/file/d/1wVL0Rdqhwcdc_xv4Xl3xcPhxKx_Fvdyn/view?usp=sharing
