@@ -1,3 +1,4 @@
+<img width="1296" height="741" alt="image" src="https://github.com/user-attachments/assets/efa0c9d7-c64f-4ba7-8229-f0c4a67034d1" />
 
 # Weather App (React & Typescript, Context Api)
 
