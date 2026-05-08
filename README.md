@@ -22,19 +22,13 @@ This project demonstrates clean UI design, API integration, reusable components,
 
 * **React**
 * **TypeScript**
-* **CSS / Tailwind CSS** *(update if needed)*
-* **Weather API** *(OpenWeatherMap or whichever API you used)*
-* **Vite** *(if used)*
+* **CSS / Tailwind CSS** 
+* **Weather API**
+* **Vite**
 
 ---
 
-## 📸 Preview
 
-Add screenshots here later:
-
-```md
-![App Screenshot](./screenshot.png)
-```
 
 ---
 
